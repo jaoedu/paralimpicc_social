@@ -37,10 +37,10 @@ A Rede Social Paralímpica é uma plataforma web desenvolvida com Django, que pe
 
 ## Tecnologias Utilizadas
 
-- Python 3.9
+- Python 3.12
 - Django 3.2
 - PostgreSQL
-- Bootstrap 5
+
 
 ## Estrutura do Projeto
 
